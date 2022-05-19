@@ -7,6 +7,11 @@ This is the feature Folder or branch that i created for y development push Ok Do
 
 Now i created a 2 new branch in which im gonna merge the old branch
 
+
+--> This is dev-2_feature Code :
+
+var forExample2 = "Done some work"
+
 --> This is dev-1_feature Code :
 
 var forExample = "Done some work"
