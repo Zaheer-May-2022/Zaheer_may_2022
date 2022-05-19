@@ -3,3 +3,10 @@ This is a file that i created using terminal so now im gonna push to remote and 
 
 And Now
 This is the feature Folder or branch that i created for y development push Ok Done 🚀🙌🧑‍💻✅
+
+
+Now i created a 2 new branch in which im gonna merge the old branch
+
+--> This is dev-1_feature Code :
+
+var forExample = "Done some work"
